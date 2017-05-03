@@ -1,0 +1,13 @@
+#appbook_login{text-align: center;}
+#appbook_login #loginform{display: inline-block;width:240px;}
+#appbook_login label{width:100%;text-align: left;margin-top: 15px;}
+#appbook_login input[type="text"],#appbook_login input[type="password"]{width:100%;float: left;}
+.appbook-menu{list-style-type: none;}
+.appbook-menu li{margin-left: 5px;cursor: pointer;}
+.page-header-btn{margin-bottom: 20px;}
+/*#appbook_app_period_new label{margin-right: 15px;}*/
+.panel>.list-group, .panel>.panel-collapse>.list-group{margin-left: 0px;}
+.panel>.list-group .list-group-item, .panel>.panel-collapse>.list-group .list-group-item{display: inline-table;width:100%;}
+table.table.app-table{border: none!important;}
+table.table.app-table th {border-top: none!important;border-right: none!important;}
+table.table.app-table td {border-bottom: none!important;border-right: none!important;}

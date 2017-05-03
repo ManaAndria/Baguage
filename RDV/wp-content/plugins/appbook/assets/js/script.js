@@ -1,0 +1,1 @@
+var appRestoSlug = 'appresto_';
