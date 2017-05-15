@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Booking-search\n"
+"POT-Creation-Date: 2017-05-15 17:02+0300\n"
+"PO-Revision-Date: 2017-05-15 17:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bookingSearch.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: bookingSearch_admin_menu.php:19
+msgid "BookingSearch"
+msgstr "BookingSearch"
+
+#: bookingSearch_admin_menu.php:30
+msgid "Save changes"
+msgstr "Enregistrer modifications"
+
+#: bookingSearch_admin_menu.php:45
+msgid "Customer parameter"
+msgstr "Paramettre client"
+
+#: bookingSearch_admin_menu.php:48
+msgid "Client ID"
+msgstr "ID Client"
+
+#: bookingSearch_admin_menu.php:49
+msgid "Client secret"
+msgstr "Secret Client"
+
+#: bookingSearch_admin_menu.php:50
+msgid "Authorization"
+msgstr "Autorisation"
+
+#: bookingSearch_post_meta_box.php:32
+msgid "ID rental"
+msgstr "Rental ID"
+
+#: bookingSearch_post_meta_box.php:35
+msgid "Price"
+msgstr "Prix"
+
+#: bookingSearch_post_meta_box.php:38
+msgid "Description"
+msgstr "Déscription"
+
+#: bookingSearch_widget.php:8
+msgid "Search engine."
+msgstr "BookingSearch de recherche."
+
+#: bookingSearch_widget.php:24
+msgid "Page not exist!"
+msgstr "Page non existante!"
+
+#: bookingSearch_widget.php:28
+msgid "Page not published!"
+msgstr "Page non publiée!"
+
+#: bookingSearch_widget.php:52
+msgid "Page Id"
+msgstr "Id page"
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "Booking-search"
+msgstr "Booking-search"
+
+#. Author of the plugin/theme
+msgid "Netunivers"
+msgstr "Netunivers"
+
+#~ msgid "Give Informations"
+#~ msgstr "Donnez les informations"
+
+#~ msgid "ID: "
+#~ msgstr "ID article: "
+
+#~ msgid "post_title: "
+#~ msgstr "titre de l'article: "
+
+#~ msgid "post_content: "
+#~ msgstr "contenu de l'article: "
+
+#~ msgid "rental Id: "
+#~ msgstr "rental Id: "
+
+#~ msgid "No result!"
+#~ msgstr "Pas de résultat!"
+
+#~ msgid "Recherche"
+#~ msgstr "Research"
+
+#~ msgid "Starting date"
+#~ msgstr "Date debut"
+
+#~ msgid "Ending date"
+#~ msgstr "Date fin"
+
+#~ msgid "Number of people"
+#~ msgstr "Nombre de personnes"
+
+#~ msgid "FIND A VILLA"
+#~ msgstr "TROUVER UNE VILLA"
